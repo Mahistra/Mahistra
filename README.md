@@ -8,14 +8,13 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<mahistra>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mahistra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=<mahistra>&theme=vue-dark&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=mahistra&theme=vue-dark&hide_border=true" />
 </p>
 
-> Replace `<mahistra>` with the actual GitHub username once the account is created.
 
 ---
 
